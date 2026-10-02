@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jorge2903123/Jorge2903123/main/assets/banner.svg" alt="Jorge Alberto San Martín Hernández — Backend, Automatización, Cloud" width="100%" />
+  <img src="https://raw.githubusercontent.com/Jorge2903123/Jorge2903123/main/assets/banner.svg?v=2" alt="Jorge Alberto San Martín Hernández — Backend, Automatización, Cloud" width="100%" />
 </p>
 
 <p align="center">
