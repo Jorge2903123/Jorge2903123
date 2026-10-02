@@ -1,7 +1,5 @@
-<h1 align="center">Jorge Alberto San Martín Hernández</h1>
-
 <p align="center">
-  Backend &nbsp;·&nbsp; Automatización &nbsp;·&nbsp; Cloud
+  <img src="https://raw.githubusercontent.com/Jorge2903123/Jorge2903123/main/assets/banner.svg" alt="Jorge Alberto San Martín Hernández — Backend, Automatización, Cloud" width="100%" />
 </p>
 
 <p align="center">
