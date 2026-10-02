@@ -1,16 +1,13 @@
-## Hi there 👋
+# ¡Hola! Soy Jorge Alberto San Martin Hernández 👋
+### 👨‍💻 Sobre mí
 
-<!--
-**Jorge2903123/Jorge2903123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Actualmente desarrollando un **SaaS multi-tenant impulsado por IA y WhatsApp** para optimizar la gestión operativa de microempresas.
+- 💡 Especializado en el desarrollo de **backend para servicios financieros**, enfocándome en la automatización de procesos y la eficiencia operativa.
+- ⚙️ Experiencia en administración de **bases de datos relacionales** (MySQL, Firebird) y diseño de **infraestructura de redes** empresariales.
+- 🌱 Stack principal: **Python, TypeScript, React y AWS**.
+- 📫 Cómo contactarme: **jorgesanmartin6@icloud.com**
 
-Here are some ideas to get you started:
+### 🛠️ Lenguajes y Herramientas
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Jorge2903123&theme=midnight_sakura)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://ghstats.dev/api/langs?username=Jorge2903123&theme=midnight_sakura&layout=grid)
